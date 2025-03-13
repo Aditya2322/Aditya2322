@@ -1,6 +1,10 @@
 # 🚀 Welcome to My Universe!
 
-![Space Banner](https://raw.githubusercontent.com/Aditya2322/Aditya2322/main/spacebanner.jpeg)
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aditya2322/Aditya2322/main/spacebanner.jpeg" width="100%" alt="Background Image">
+</p>
 
 ## 🌌 About Me
 
