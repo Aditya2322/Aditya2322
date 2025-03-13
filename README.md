@@ -1,6 +1,6 @@
 # 🚀 Welcome to My Universe!
 
-![Space Banner](https://source.unsplash.com/1600x400/?galaxy,stars,nebula)
+![Space Banner](https://raw.githubusercontent.com/Aditya2322/main/space-banner.png)
 
 ## 🌌 About Me
 
