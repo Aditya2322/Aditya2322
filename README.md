@@ -1,4 +1,4 @@
-# 🚀 Welcome to My Universe!
+# 🚀 Welcome to My CodeUniverse!
 
 ![Space Banner](https://raw.githubusercontent.com/Aditya2322/Aditya2322/main/spacebanner.jpeg)
 
