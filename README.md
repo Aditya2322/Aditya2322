@@ -33,7 +33,8 @@ Hello! I'm **Aditya**, a passionate **developer** on a mission to explore the en
 
 ## 🌍 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/aditya-jha-736a19222/?original_referer=)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-jha-736a19222/)
+
 
 
 ---
