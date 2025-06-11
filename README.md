@@ -1,9 +1,7 @@
 # 🚀 Welcome to My CodeUniverse!
 
 # ![Space Banner](https://raw.githubusercontent.com/Aditya2322/Aditya2322/main/spacebanner.jpeg)
-<p align="center">
-  <img src="8b3e8147-918b-4034-bc04-762bfc262727.png" alt="Futuristic code universe" width="100%" height="300px" style="object-fit: cover; border-radius: 10px;" />
-</p>
+
 
 ## 🌌 About Me
 
