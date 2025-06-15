@@ -29,6 +29,7 @@ Hello! I'm **Aditya**, a passionate **developer** on a mission to explore the en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter Notebook Logo"/>
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" />
   <img src="https://raw.githubusercontent.com/Aditya2322/Aditya2322/main/tableau.svg" width="40" alt="Tableau Logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" />
 
 >
 
