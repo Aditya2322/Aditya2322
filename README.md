@@ -25,6 +25,9 @@ Hello! I'm **Aditya**, a passionate **developer** on a mission to explore the en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/Aditya2322/Aditya2322/main/github.svg" width="40" alt="GitHub Logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code Logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter Notebook Logo"/>
+
 
 
 </p>
