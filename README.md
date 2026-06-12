@@ -60,7 +60,7 @@ I believe in combining strong software engineering principles with AI-powered in
 ## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,sql,bash"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,bash"/>
 </p>
 
 ## Frontend
@@ -72,13 +72,13 @@ I believe in combining strong software engineering principles with AI-powered in
 ## Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres"/>
 </p>
 
 ## Cloud, DevOps & Tooling
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode"/>
 </p>
 
 ---
