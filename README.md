@@ -303,12 +303,11 @@ Designed and implemented multiple software engineering, AI, machine learning, an
 
 ---
 
-# Contribution Snake
+# Contribution Activity
+<h2 align="center">My Contributions</h2>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Aditya2322/Aditya2322/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/Aditya2322/Aditya2322/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </div>
 
 ---
