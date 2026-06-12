@@ -37,7 +37,7 @@
 
 # About
 
-I am a Software Engineer, Data Analyst, and AI enthusiast passionate about building scalable software systems, intelligent applications, and data-driven solutions.
+I am a Data Analyst, and AI enthusiast passionate about building scalable software systems, intelligent applications, and data-driven solutions.
 
 My expertise spans Full Stack Development, Machine Learning, Data Analytics, Recommendation Systems, and Cloud Technologies. I enjoy solving complex engineering problems while focusing on performance, scalability, maintainability, and business impact.
 
@@ -45,11 +45,8 @@ I believe in combining strong software engineering principles with AI-powered in
 
 ### Open To
 
-- Software Engineering Roles
 - AI / ML Engineering Opportunities
 - Data Analyst Positions
-- Backend Engineering Roles
-- Full Stack Development
 - Open Source Collaboration
 - Research Projects
 
@@ -264,10 +261,9 @@ Designed and implemented multiple software engineering, AI, machine learning, an
 
 <div align="center">
 
-![](https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode)
+![https://leetcode.com/u/v8gmffPNsM/](https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode)
 ![](https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks)
-![](https://img.shields.io/badge/HackerRank-Competitive%20Programming-00EA64?style=for-the-badge&logo=hackerrank)
-![](https://img.shields.io/badge/CodeChef-Competitive%20Coding-5B4638?style=for-the-badge)
+
 
 </div>
 
