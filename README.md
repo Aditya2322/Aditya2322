@@ -283,17 +283,6 @@ Designed and implemented multiple software engineering, AI, machine learning, an
 
 ---
 
-# GitHub Trophies
-
-<h2 align="center">GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy-roan.vercel.app/?username=Aditya2322&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
-
----
-
 # Contribution Activity
 
 <div align="center">
