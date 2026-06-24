@@ -57,7 +57,7 @@ I believe in combining strong software engineering principles with AI-powered in
 ## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,bash"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,bash"/>
 </p>
 
 ## Frontend
