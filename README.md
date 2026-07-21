@@ -75,7 +75,7 @@ I believe in combining strong software engineering principles with AI-powered in
 ## Cloud, DevOps & Tooling
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vscode"/>
 </p>
 
 ---
