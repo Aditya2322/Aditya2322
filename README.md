@@ -262,7 +262,7 @@ Designed and implemented multiple software engineering, AI, machine learning, an
 <div align="center">
 
 [![LeetCode Problem Solver](https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/v8gmffPNsM/)
-![](https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks)
+[![GeeksforGeeks Coding Practice](https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/profile/a9794fco1?tab=activity)
 
 
 </div>
